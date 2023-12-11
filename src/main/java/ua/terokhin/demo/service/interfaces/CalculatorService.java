@@ -1,4 +1,4 @@
-package ua.terokhin.demo.interfaces;
+package ua.terokhin.demo.service.interfaces;
 
 public interface CalculatorService {
     double add(double a, double b);
