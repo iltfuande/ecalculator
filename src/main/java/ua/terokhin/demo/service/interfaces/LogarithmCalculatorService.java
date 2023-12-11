@@ -1,4 +1,4 @@
-package ua.terokhin.demo.interfaces;
+package ua.terokhin.demo.service.interfaces;
 
 public interface LogarithmCalculatorService {
     double naturalLogarithm(double number);
